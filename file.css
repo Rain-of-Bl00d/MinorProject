@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    height: 40px;
+    width: 40px;
+}
+
+.home-bg {
+    background-image: url(' https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.text-center {
+    text-align: center;
+    color: white;
+}
+
+.button {
+    font-size: 15px;
+    text-align: center;
+    background-color: #1a2137;
+    color: white;
+    height: 50px;
+    width: 100px;
+}
+
+#section1 {
+    color: #323f4b;
+}
+
+#section2 {
+    color: #323f4b;
+}
+
+#section3 {
+    color: #323f4b;
+}
+
+#section4 {
+    color: #323f4b;
+}
+
+.wcu-card {
+    text-align: center;
+    border-style: solid;
+    border-color: darkblue;
+    border-width: 2px;
+    transition: transform 0.3s ease 0s;
+}
+
+.img-vr {
+    height: 50%;
+    width: 50%;
+}
+
+.img {
+    width: 100%;
+}
+
+.img-comp {
+    width: 100%;
+}
+
+.img-class {
+    height: 80%;
+    width: 80%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.img-sec1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png');
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+
+.img-sec2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png');
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+
+.button1 {
+    background-color: transparent;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-style: solid;
+    border-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.bg-sec {
+    background-color: #222b36;
+    height: 100%;
+    width: 100%;
+}
+
+.img {
+    height: 70%;
+    width: 70%;
+}
+
+.bg-contact {
+    background-color: #19232d;
+    width: 100%;
+}
+
+.con-logo {
+    height: 30px;
+    width: 30px;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.follow-us-icon-container {
+    background-color: #202b36;
+    color: #959ead;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.para-contact {
+    color: #959ead;
+    font-weight: bold;
+}
+
+.follow {
+    text-align: center;
+}
+
+.hr-line {
+    color: #959ead;
+    height: 1px;
+    width: 80%;
+}
